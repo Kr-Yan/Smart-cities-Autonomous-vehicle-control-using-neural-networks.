@@ -17,28 +17,7 @@ This project is a car simulation system built in Unity that integrates a neural 
 
 ---
 
-## Folder Structure
-CarSimulation/
-│
-├── Assets/
-│   ├── Scripts/
-│   │   ├── VehicleController.cs       // Controls vehicle behavior and neural network integration
-│   │   ├── TrafficManager.cs          // Manages simulation setup and vehicles
-│   │   ├── NeuralNetwork.cs           // Implements the neural network for vehicle control
-│   │   ├── PathFinder.cs              // Provides pathfinding using the A* algorithm
-│   │   ├── SimulationMetrics.cs       // Tracks performance metrics for evaluation
-│   │
-│   ├── Prefabs/
-│   │   ├── Vehicle.prefab             // Prefab for simulated vehicles
-│   │   ├── Node.prefab                // Represents grid nodes
-│   │
-│   ├── Scenes/
-│   │   ├── MainScene.unity            // Main simulation scene
-│   │
-├── README.md                          // Project documentation
-└── ProjectReport.pdf                  // Detailed report of the project
 
----
 
 ## Setup & Installation
 1. Clone this repository to your local machine:
