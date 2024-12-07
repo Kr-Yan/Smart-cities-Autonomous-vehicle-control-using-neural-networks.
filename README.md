@@ -21,7 +21,7 @@ This project is a car simulation system built in Unity that integrates a neural 
 
 ## Setup & Installation
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-repo/CarSimulation.git
+   git clone "url".
 
 2. Open the project in Unity (tested on Unity 2021.x and above).
 
